@@ -3,6 +3,7 @@ import {fetchPost} from '../actions/postAction';
 import {bindActionCreators} from 'redux';
 import {connect} from 'react-redux';
 
+
 class ButtonComponent extends Component {
   render() {
     return (
